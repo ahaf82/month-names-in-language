@@ -26,5 +26,33 @@
 		"10": "October",
 		"11": "November",
 		"12": "December"
+	},
+	"fr": {
+		"1": "Janvier",
+		"2": "Février",
+		"3": "Mars",
+		"4": "Avril",
+		"5": "Mai",
+		"6": "Juin",
+		"7": "Juillet",
+		"8": "Août",
+		"9": "Septembre",
+		"10": "Octobre",
+		"11": "Novembre",
+		"12": "Décembre"
+	},
+	"it": {
+		"1": "Gennaio",
+		"2": "Febbraio",
+		"3": "Marzo",
+		"4": "Aprile",
+		"5": "Maggio",
+		"6": "Giugno",
+		"7": "Luglio",
+		"8": "Agosto",
+		"9": "Settembre",
+		"10": "Ottobre",
+		"11": "Novembre",
+		"12": "Dicembre"
 	}
 }
