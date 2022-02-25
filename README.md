@@ -13,18 +13,18 @@ require the package after installing:
 `const monthNames = require("months_in_language");`
 
 
-'monthNames.getAllMonthNames("en");' 
+`monthNames.getAllMonthNames("en");
 
 returns you an array of Months like this:
 
-'[
+`[
   'January',   'February',
   'March',     'April',
   'May',       'June',
   'July',      'August',
   'September', 'October',
   'November',  'December'
-]'
+]`
 
 
 'monthNames.getSingleMonthName("en", 4);' 
