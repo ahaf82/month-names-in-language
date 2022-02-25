@@ -1,0 +1,21 @@
+{
+  "name": "months_in_language",
+  "version": "1.0.0",
+  "description": "Get a list of monthnames in your desired language",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "month",
+    "name",
+    "language",
+    "list"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahaf82/month-names-in-language.git"
+  },
+  "author": "Armin Hafner",
+  "license": "MIT"
+}
