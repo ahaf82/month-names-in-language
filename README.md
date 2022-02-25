@@ -1,12 +1,12 @@
-### Use this package to get a list of Month Names with capitalized first letter as array in your desired language,
+## Use this package to get a list of Month Names with capitalized first letter as array in your desired language,
 if you enter the correct language code as string as parameter.
 
-# Installation
+## Installation:
 
 npm install months_in_language
 
 
-# Usage:
+## Usage:
 
 require the package after installing:
 
